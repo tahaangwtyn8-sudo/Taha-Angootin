@@ -1,0 +1,15 @@
+{
+  "name": "Taha Rest Plan",
+  "short_name": "RestPlan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b2a3d",
+  "theme_color": "#0b2a3d",
+  "icons": [
+    {
+      "src": "icon.PNG",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
